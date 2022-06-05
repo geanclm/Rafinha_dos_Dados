@@ -1,0 +1,7 @@
+nome;idade;cpf;nascimento;peso;estado;registro;cargo;rg;investidor;projeto;renda
+gean;40;12345678910;1995-10-11;70;SC;2021-11-25;empresário;1234567;sim;True;3500
+carlos;41;12345678911;1995-10-12;71;SC;2021-11-26;investidor;1234568;não;True;3501
+luciano;42;12345678912;1995-10-13;72;DF;2021-11-27;cientista de dados;1234569;sim;False;3502
+geanclm;43;12345678913;1995-10-14;73;PB;2021-11-28;perito oficial;1234570;não;True;3503
+gclm;44;12345678914;1995-10-15;74;PB;2022-02-16;policial;1234571;sim;True;3504
+clm;45;12345678915;1995-10-16;75;PB;2022-02-16;tecnologia;1234572;sim;True;3505
